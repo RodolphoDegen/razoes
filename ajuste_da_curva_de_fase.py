@@ -10,7 +10,7 @@ fMet='Altaameem_opc.dat'
 fFe='fe_optical_constants.txt'
 
 dname=''
-fname = '/home/usuario/Documents/modulos_ROD/plots/razoes/teste2_2.txt'
+fname = '/home/usuario/Documents/modulos_ROD/plots/razoes/teste_2.txt'
 fdat=os.path.join(dname,fname)
 
 # Carregar os dados do CSV
